@@ -1,0 +1,5 @@
+npm init 
+npm i -D typescript
+npm i -d  ts-node
+npm i nodemon
+Make Typescript config file
